@@ -97,7 +97,7 @@ function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
   return x % y
-}
+
 
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
@@ -179,7 +179,7 @@ function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
-  return str '¡';
+  return str + '¡';
 }
 
 
